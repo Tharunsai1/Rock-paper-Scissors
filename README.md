@@ -11,7 +11,7 @@ Install Necessary Modules:
 <br>
 we need to import random library
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" alt="Rock-Paper_sicssors">
+<img src="https://miro.medium.com/max/800/1*8du96SQUQ0NlWmWvVu20Zw.png" alt="Rock-Paper_sicssors">
 
 
 <h2><center><strong>All the best<strong><center><h2>
