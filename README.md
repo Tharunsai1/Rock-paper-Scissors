@@ -19,4 +19,3 @@ we need to import random library
 
 ## All The Best
 
-#worldbookday #partyband #gtx1060 #abyssinian #myvideo #carolinapanthers #cigarcollector #起業 #geeky #gamedevelopment #missionaccomplished
